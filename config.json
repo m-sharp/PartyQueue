@@ -1,0 +1,5 @@
+{
+  "PlayUsername": <Insert Email Here>,
+  "PlayPassword": <Insert App Password Here>,
+  "SlackToken": <Insert Slack Token Here>
+}

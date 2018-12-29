@@ -1,5 +1,7 @@
 {
-  "PlayUsername": <Insert Email Here>,
-  "PlayPassword": <Insert App Password Here>,
-  "SlackToken": <Insert Slack Token Here>
+  "user_name": <Insert Google Account Here>,
+  "password": <Insert Google Password Here>,
+  "slack_token": <Insert Slack App Bot User OAuth-Token Here>,
+  "slack_client_id": <Insert Slack App Client Id Here>,
+  "slack_client_secret": <Insert Slack App Client Secret Here>
 }
